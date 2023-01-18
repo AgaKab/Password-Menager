@@ -1,0 +1,10 @@
+{
+    "Wrike": {
+        "email": "agata.kabot@vp.pl",
+        "password": "W9kM+Dr+5p%oZ!"
+    },
+    "Trello": {
+        "email": "agata.kabot@vp.pl",
+        "password": "*fn04xru4G$)s7q!"
+    }
+}
