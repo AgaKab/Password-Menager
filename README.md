@@ -6,5 +6,5 @@ Working with:
 - Errors and Exceptions (try, except, else, finally)
 
 <p align="center">
-<img src="/photo/password_gen..png"  >
+<img src="/photo/password_gen..png" width="200" height="200"  >
 </p>
