@@ -5,4 +5,4 @@ Working with:
 - JSON Data
 - Errors and Exceptions (try, except, else, finally)
 
-![Screenshot](password_gen.png)
+![Optional Text](../master/photo/password_gen.png)
