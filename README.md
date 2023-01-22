@@ -5,6 +5,6 @@ Working with:
 - JSON Data
 - Errors and Exceptions (try, except, else, finally)
 
-<p align="center">
-<img src="/photo/password_gen..png" width="200" height="200"  >
+<p >
+<img src="/photo/password_gen..png" width="300" height="300"  >
 </p>
