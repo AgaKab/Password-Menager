@@ -5,4 +5,4 @@ Working with:
 - JSON Data
 - Errors and Exceptions (try, except, else, finally)
 
-<img src="/photo/password_gen.png" >
+<img src="/photo/password_gen..png" >
