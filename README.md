@@ -6,5 +6,5 @@ Working with:
 - Errors and Exceptions (try, except, else, finally)
 
 <p >
-<img src="/photo/blank.png" width="350" height="300"><img src="/photo/empty.png" width="350" height="300" align="right"><img src="/photo/save.png" width="350" height="300" ><img src="/photo/search.png" width="350" height="300" align="right">
+<img src="/photo/blank.png" width="320" height="300"><img src="/photo/empty.png" width="320" height="300" align="right"><img src="/photo/save.png" width="320" height="300" ><img src="/photo/search.png" width="320" height="300" align="right">
 </p>
