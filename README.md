@@ -7,7 +7,8 @@ Working with:
 - IDE: PyCharm
 
 Descroption:<br>
-Creates a password for the given website/name and e-mail address and then saves the data in JSON format after approval. Gives you the ability to search for a saved password by the name under which it was created. The box-informing about the need to fill in all fields prevents saving incomplete data. In order to avoid errors, exception handling (try/except/else method) has been implemented in the code.
+Creates a password for the given website/name and e-mail address and then saves the data in JSON format after approval. Gives you the ability to search for a saved password by the name under which it was created. The box-informing about the need to fill in all fields prevents saving incomplete data. In order to avoid errors, exception handling (try/except/else method) has been implemented in the code. The user interface of the program was created with a Canvas widget that provides graphical tools for Tkinter.
+
 
 <div>
 <img src="/photo/blank.png" width="320" height="300"><img src="/photo/empty.png" width="320" height="300"><img src="/photo/save.png" width="320" height="300" ><img src="/photo/search.png" width="320" height="300">
