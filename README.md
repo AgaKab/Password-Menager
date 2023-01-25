@@ -1,8 +1,8 @@
 # Password_Generator
 
 Working with:
-- Tkinter library (Canvas)
-- JSON Data
+- Tkinter library (Canvas widget)
+- JSON
 - Errors and Exceptions (try, except, else, finally)
 
 <p >
